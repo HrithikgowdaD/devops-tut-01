@@ -1,3 +1,0 @@
-first line data added 
-second line data addedthird line added to file1.txt
-fourt line added to file1.txt
