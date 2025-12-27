@@ -1,2 +1,3 @@
 first line added
-[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C to file2.txt[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dsecond line added to file2.txt
+[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C to file2.txt[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dsecond line added to file2.txtthird line added to file2.txt
+fourth line added to file2.txt
